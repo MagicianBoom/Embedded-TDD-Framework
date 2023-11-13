@@ -7,6 +7,9 @@ Language:   Cpp
 
 # BasedOnStyle: LLVM
 
+# 宏定义对齐
+AlignConsecutiveMacros:   true
+
 # 访问说明符(public、private等)的偏移
 AccessModifierOffset:   -4
 
