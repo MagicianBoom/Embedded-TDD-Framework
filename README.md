@@ -1,6 +1,7 @@
 # Embedded-TDD-Framework
 
 ## directory structure
+```
 /---|---bll "Behavioral logic layer"
     |    |
     |    |---bll.c
@@ -18,3 +19,4 @@
          |---sdf_core.c
          |
          |---sdf_visible.c
+```
